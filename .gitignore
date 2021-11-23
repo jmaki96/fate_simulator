@@ -1,0 +1,20 @@
+.DS_Store
+
+# Ignore virtual environment files
+**/venv/*
+
+# Ignore cache files
+**/__pycache__/*
+
+# Ignore all files generated at runtime
+**/generated/*
+
+# Ignore test source files
+/src/*
+
+# Ignore credentials files
+*.env
+**/creds/*
+
+# Ignore local scripts for now
+/scripts/*
