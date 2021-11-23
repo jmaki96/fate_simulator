@@ -18,3 +18,7 @@
 
 # Ignore local scripts for now
 /scripts/*
+
+# Include specific scripts
+!/scripts/model_roll_outcomes.py
+!/scripts/simple_roll.py
